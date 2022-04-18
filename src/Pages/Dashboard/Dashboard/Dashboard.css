@@ -1,0 +1,14 @@
+.nav-bg{
+    background-color: #1976D2;
+}
+
+.logout{
+    text-decoration: none !important;
+    color: rgb(226, 219, 219);
+    margin-top: 70%;
+}
+
+.nav-item{
+    text-decoration: none !important;
+    color: rgb(226, 219, 219);
+}
