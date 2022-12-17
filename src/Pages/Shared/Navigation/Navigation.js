@@ -26,7 +26,7 @@ const Navigation = () => {
                         <MenuIcon />
                     </IconButton>
                     <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-                        Appointment System
+                        Appointment Systemx
                     </Typography>
                     <Link style={{ textDecoration: 'none', color: 'white' }} to="/"><Button color="inherit">Home</Button></Link>
                     <Link style={{ textDecoration: 'none', color: 'white' }} to="/appointments"><Button color="inherit">Appointment</Button></Link>
